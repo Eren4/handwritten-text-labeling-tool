@@ -1,9 +1,0 @@
-# formxxx-yy-zz -> format of the word filename
-# xxx -> form number
-# yy -> line number
-# zz -> word number
-# ex: form153-6-5 means form number 153, sixth line, fifth word
-# words/formxxx-yy-zz.png -> path of the word
-# ok -> word is correctly segmented and is readable
-# err -> word is wrongly segmented and is not readable
-# corresponding labels are on the third column
