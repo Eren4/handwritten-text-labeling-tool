@@ -1,5 +1,5 @@
 # handwritten-text-labeling-tool  
-labeling.py
+labeling.py  
 This script performs line and word segmentation on a handwritten form and labels each word and line into txt files.  
   
 When the script is opened, it will ask the user for the handwritten filename (with its extension such as jpg or png).  
