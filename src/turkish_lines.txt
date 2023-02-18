@@ -1,0 +1,8 @@
+# lines/formxxx-yy.png -> path of the line
+# xxx -> number of the form
+# yy -> line number
+# ex: form024-4.png means the fourth line of the 24th form
+# ok -> the line is segmented correctly and doesn't contain error words
+# err -> the line was either segmented wrongly or contains an error word
+# third column contains what is written in the line
+# the words are separated with the pipe (|) sign
